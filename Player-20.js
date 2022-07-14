@@ -1,4 +1,4 @@
-/* Player RadioCalabriaMiaWeb
+/* Player RadioFagnanoWeb
 */
 (function(a, k) {
 "function" === typeof define && define.amd ? define(["jquery"], k) : a.jQuery ? k(a.jQuery) : k(a.Zepto)
